@@ -1,0 +1,29 @@
+.container{
+    border: 2px rgb(43, 226, 80) solid;
+    box-shadow: 10px 10px 10px 10px rgba(15, 6, 15, 0.2);
+    /* background-color: rgb(212, 165, 210); */
+    margin-left: 30%;
+    height: 72vh;
+    width: 40%;
+    border-radius: 10% 10% 0 0;
+}
+button{
+    width: 100%;
+    background-color: rgb(226, 43, 43);
+    color: white;
+    margin-top: 17%;
+    height: 10vh;
+    border: none;
+   
+}
+h2{
+    text-align: center;
+
+}
+div , h2{
+ margin: 5%;
+}
+li{
+    list-style: none;
+    margin-bottom: 5%;
+}
